@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "860561251749",
+    "project_id": "fcm-test-7374f",
+    "storage_bucket": "fcm-test-7374f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860561251749:android:64ac0ae86fb793bddc9c4c",
+        "android_client_info": {
+          "package_name": "com.hanafedeil.fcm_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860561251749-crlv84nrb20hkeegfkcp5kqh8604m6ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTLHZLwW-TCGosD5aLHO5fhKpLJ6acgAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860561251749-crlv84nrb20hkeegfkcp5kqh8604m6ae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860561251749-qfd5gukfjqbdje34o4uhe9i68f1qa90o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hanafedeil.fcmTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
